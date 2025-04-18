@@ -53,6 +53,11 @@ Repos
   - 🗺️ [Awesome Ricing ; ricing guide and/or repo](https://github.com/fosslife/awesome-ricing) 
   - ➖ [Zebar ; cross-platform bar](https://github.com/glzr-io/zebar)
   - 🎨 [Catpuccin](https://github.com/catppuccin/catppuccin)
+  - \>_ Custom Terminal Prompt
+    - https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html
+    - https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/
+    - https://unix.stackexchange.com/questions/148/colorizing-your-terminal-and-shell-environment#150
+    - https://github.com/win0err/aphrodite-terminal-theme
 
  <br><br> 
 
