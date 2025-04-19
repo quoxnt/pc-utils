@@ -70,6 +70,8 @@ Repos
 
 🪞 [LookingGlass](https://github.com/gnif/LookingGlass)
 
+📜 [Inxi](https://smxi.org/docs/inxi.htm)
+
  <br><br> 
 
 
