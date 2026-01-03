@@ -33,13 +33,9 @@ Repos
 
 🎧 [Spotube](https://github.com/KRTirtho/spotube)
 
-💬 [Caprine](https://github.com/sindresorhus/caprine)
-
 💬 [Discord Clients](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) 
   -  [ArmCord](https://github.com/ArmCord/ArmCord)
   -  [Replugged](https://github.com/replugged-org/replugged)
-
-📱 [MIUI Debloater](https://github.com/kirthandev/MIUI-Debloater-official)
 
 📱 [scrcpy](https://github.com/Genymobile/scrcpy)
 
@@ -59,22 +55,16 @@ Repos
     - https://unix.stackexchange.com/questions/148/colorizing-your-terminal-and-shell-environment#150
     - https://github.com/win0err/aphrodite-terminal-theme
 
- <br><br> 
 
 
+<br><br> 
 ## 🐧 Linux 🐧 
 
 🔋 [bat](https://github.com/tshakalekholoane/bat)
 
-🖥️ [Hyprland](https://github.com/hyprwm/Hyprland)
-
-🪞 [LookingGlass](https://github.com/gnif/LookingGlass)
-
-📜 [Inxi](https://smxi.org/docs/inxi.htm)
-
- <br><br> 
 
 
+<br><br> 
 ## 🪟 Windows 🪟
 
 📜 [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
@@ -83,15 +73,9 @@ Repos
 
 🔧 [O&O ShutUP10++](https://www.oo-software.com/en/shutup10)
 
-⚙️ [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX)
-
-⚙️ [GlazeWM](https://github.com/glzr-io/glazewm)
-
 👂 [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)
 
 👂 [ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts)
-
-🕛 [ElevenClock](https://github.com/marticliment/ElevenClock)
 
 🔧 [tdm-gcc](https://github.com/jmeubank/tdm-gcc)
 
@@ -102,7 +86,4 @@ Repos
 🎞️ [Best Virus Removal Tools: Cleaning a deeply infected system - The PC Security Channel](https://www.youtube.com/watch?v=-nkVzJ1V0rM)
 
 🌐 [LibreWolf Updater for Win10](https://codeberg.org/ltGuillaume/LibreWolf-WinUpdater)
-
- <br><br> 
-
 
